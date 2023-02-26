@@ -1,0 +1,9 @@
+This is a list of devops tools:
+Docker
+Terraform
+Maven
+Git
+Ansible
+Sonarqube
+Nexus
+Jenkins
