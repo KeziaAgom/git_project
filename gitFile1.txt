@@ -1,2 +1,2 @@
 This is the first file in our git project.
-This is a new push to the remote repo
+This is a new push to the remote repo.
